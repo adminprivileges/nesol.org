@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Mission-Focused",
+    "description": "Supporting technical training, workforce development, and operational readiness.",
+    "icon": "bi bi-box"
+  },
+  {
+    "title": "Experienced",
+    "description": "Delivering practical expertise across cyber, systems, networks, and instruction.",
+    "icon": "bi bi-lightning-charge"
+  },
+  {
+    "title": "Careers",
+    "description": "Explore current opportunities with NE Solutions.",
+    "link": "/careers/",
+    "icon": "bi bi-briefcase"
+  }
+]
