@@ -86,25 +86,25 @@ googleFonts = true
   [[menu.main]]
   identifier = "about"
   name = "About"
-  url = "about/"
+  url = "/about/"
   weight = 2
 
   [[menu.main]]
   identifier = "skillbridge"
   name = "Skillbridge"
-  url = "skillbridge/"
+  url = "/skillbridge/"
   weight = 3
 
   [[menu.main]]
   identifier = "careers"
   name = "Careers"
-  url = "careers/"
+  url = "/careers/"
   weight = 4
 
   [[menu.main]]
   identifier = "contact"
   name = "Contact"
-  url = "contact/"
+  url = "/contact/"
   weight = 5
 
   # Footer Menu
