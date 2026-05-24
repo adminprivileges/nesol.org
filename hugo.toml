@@ -1,4 +1,4 @@
-baseURL = "https://nesol.org/"
+baseURL = "https://www.nesol.org/"
 title = "NE Solutions"
 author = "username"
 languageCode = "en"
@@ -162,3 +162,7 @@ series = "series"
   disableWatch = true
   source = 'hugo_stats.json'
   target = 'assets/notwatching/hugo_stats.json'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
