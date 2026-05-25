@@ -4,7 +4,7 @@ draft = false
 title = 'About'
 +++
 
-# Ne Solutions
+# NE Solutions
 Our customer's journey to success defines our own. We are committed to fostering a collaborative environment where both our team and our customers thrive. We embrace challenges and actively seek talented individuals who share our passion for innovation and growth, allowing us to collectively enable, empower, and guide each other towards shared success.
 
 ## Our Team

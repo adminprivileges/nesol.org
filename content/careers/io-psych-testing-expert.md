@@ -1,7 +1,7 @@
 +++
 date = '2026-05-23T15:30:44-04:00'
 draft = false
-title = 'Io Psych Testing Expert'
+title = 'IO Psych Testing Expert'
 image = 'img/careers/pexels-fauxels-3184292.jpg'
 +++
 

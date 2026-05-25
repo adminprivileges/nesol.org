@@ -29,7 +29,6 @@
       "span",
       "svg",
       "textarea",
-      "time",
       "title",
       "ul"
     ],
@@ -254,7 +253,6 @@
     ],
     "ids": [
       "allyn-wilson-ceo",
-      "apply-here",
       "contact-us",
       "email",
       "hamburgerbtn",
@@ -271,10 +269,7 @@
       "responsibilities",
       "subject",
       "thumb",
-      "want-to-join-our-team",
-      "want-to-join-our-team-apply-here",
-      "want-to-join-our-team-contact-us",
-      "want-to-join-our-team-contact-us-here"
+      "want-to-join-our-team-contact-us"
     ]
   }
 }
