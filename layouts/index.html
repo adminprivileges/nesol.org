@@ -21,16 +21,16 @@
     </div>
     {{ end }}
 {{ end }}
-
 {{ define "scripts" }}
     <script src="{{ "/js/splide.min.js" | relURL }}"></script>
     <script>
         document.addEventListener( 'DOMContentLoaded', function() {
             new Splide( '.splide', {
-                type   : 'loop',
-                autoplay: true,
-                interval: 6000,
-                speed: 550,
+                type: 'slide',
+                autoplay: false,
+                arrows: false,
+                pagination: false,
+                drag: false,
             } ).mount();
         } );
     </script>

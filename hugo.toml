@@ -1,7 +1,7 @@
 baseURL = "https://www.nesol.org/"
 title = "NE Solutions"
 author = "username"
-languageCode = "en"
+locale = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 theme = "tella"
@@ -166,3 +166,8 @@ series = "series"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[security]
+  enableInlineShortcodes = true
+
+  [security.exec]
+    allow = ['^(dart-)?sass$', '^go$', '^git$', '^node$', '^postcss$', '^tailwindcss$']
