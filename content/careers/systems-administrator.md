@@ -1,9 +1,12 @@
-+++
++++  
 date = '2026-05-23T15:30:45-04:00'
 draft = false
 title = 'Systems Administrator'
 image = 'img/careers/pexels-brett-sayles-4508751.jpg'
-+++
++++  
+**Location:** Hanover, Maryland
+**Employment Type:** Full Time
+
 
 
 NE Solutions is seeking A professional IT Systems Administrator that will successfully support and maintain a stable IT infrastructure for multiple SCIF and commercial environments. Providing support on telecommunications circuits, networking equipment, servers, AD enterprise, applications, and desktop support.  Ensuring secure and stable operation of systems, seamless flow of information and proper functioning of endpoints throughout the organization’s operations.  Working as part of a team triaging of IT related issues, maintaining compliance, and deploying new systems.

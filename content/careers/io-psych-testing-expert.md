@@ -1,9 +1,12 @@
-+++
++++  
 date = '2026-05-23T15:30:44-04:00'
 draft = false
 title = 'IO Psych Testing Expert'
 image = 'img/careers/pexels-fauxels-3184292.jpg'
-+++
++++  
+**Location:** Hanover, Maryland
+**Employment Type:** Full Time
+
 
 
 NE Solutions is seeking an experienced Instructional Testing Expert to support our federal customer in Hanover, MD (Remote). This is a temporary assignment scheduled to last 3-4 months.

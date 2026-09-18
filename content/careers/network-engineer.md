@@ -1,9 +1,12 @@
-+++
++++  
 date = '2026-05-23T15:30:45-04:00'
 draft = false
 title = 'Network Engineer'
 image = 'img/careers/pexels-brett-sayles-4657256.jpg'
-+++
++++  
+**Location:** Hanover, Maryland
+**Employment Type:** Full Time
+
 
 NE Solutions is seeking a Network Engineer with an active TS/SCI with Poly to join their team in the Hanover, MD area.  The work environment is fast-paced and sometimes involves extreme deadline pressures. The nature of the work requires a high degree of teamwork and cooperation with other members of the staff as well as individuals across the Company and Customers.
 

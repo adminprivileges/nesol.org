@@ -1,9 +1,12 @@
-+++
++++  
 date = '2026-05-23T15:30:44-04:00'
 draft = false
 title = 'Technical Writer'
 image = 'img/careers/pexels-startup-stock-photos-7102.jpg'
-+++
++++  
+**Location:** Hanover, Maryland
+**Employment Type:** Full Time
+
 
 NE Solutions is seeking a Technical Writer 2 in our Hanover, MD office to help support the customer’s Field Engineering Office for over 80 customer locations worldwide by providing unique solutions for an ever-changing mission environment. The team provides support in the form of RF Engineering, signals analysis, and software engineering for 12 different efforts and applications.  
 

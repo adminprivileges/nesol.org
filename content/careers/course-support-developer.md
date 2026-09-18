@@ -1,9 +1,13 @@
-+++
++++  
 date = '2026-05-23T15:30:46-04:00'
 draft = false
 title = 'Course Support Developer'
 image = 'img/careers/pexels-markus-winkler-1430818-4578665.jpg'
-+++
++++  
+**Location:** Hanover, Maryland
+**Employment Type:** Full Time
+  
+
 NE Solutions is currently seeking Course Support members to be a part of a team that ensures course delivery in Maryland, Georgia, and Texas. Member will be part of a collaborative multidisciplinary Team delivering highly sophisticated, technical, hands-on training solutions to meet the mission and time-critical needs of our customers. This course support discipline is focused on the development of tailored, high quality, timely software solutions for use by instructional staff members and students.  
 
 ## Responsibilities

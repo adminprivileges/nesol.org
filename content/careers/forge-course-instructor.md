@@ -1,9 +1,12 @@
-+++
++++  
 date = '2026-05-23T15:30:46-04:00'
 draft = false
 title = 'Forge Course Instructor'
 image = 'img/careers/pexels-asia-culture-center-3116378-14612128.jpg'
-+++
++++  
+**Location:** Hanover, Maryland
+**Employment Type:** Full Time
+
  
 NE Solutions is currently seeking Instructors and Content Developers, to deliver courses as part of the new Future Operator Readiness, Growth, and Enrichment (FORGE) training pipeline.  FORGE Instructors will be part of a collaborative multidisciplinary Team delivering highly sophisticated, technical, hands-on training solutions to meet the mission and time-critical needs of our customers.  
 

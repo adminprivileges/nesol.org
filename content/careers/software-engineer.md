@@ -1,9 +1,12 @@
-+++
++++  
 date = '2026-05-23T15:30:45-04:00'
 draft = false
 title = 'Software Engineer'
 image = 'img/careers/pexels-sash2s-16592498.jpg'
-+++
++++  
+**Location:** Hanover, Maryland
+**Employment Type:** Full Time
+
 
 The Software Engineer develops, maintains, and enhances complex and diverse software systems (e.g., processing-intensive analytics, novel algorithm development, manipulation of extremely large data sets, real-time systems, and business management information systems) based upon documented requirements.  Works individually or as part of a team.  Reviews and tests software components for adherence to the design requirements and documents test results.  Resolves software problem reports.  Utilizes software development and software design methodologies appropriate to the development environment.  Provides specific input to the software components of system design to include hardware/software trade-offs, software reuse, use of Commercial Off-the-Shelf (COTS)/Government Off-the-shelf (GOTS) in place of new development and requirements analysis and synthesis from system level to individual software components.
 
