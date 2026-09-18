@@ -4,7 +4,7 @@ draft = false
 title = 'Network Engineer'
 image = 'img/careers/pexels-brett-sayles-4657256.jpg'
 +++  
-**Location:** Hanover, Maryland
+**Location:** Hanover, Maryland  
 **Employment Type:** Full Time
 
 

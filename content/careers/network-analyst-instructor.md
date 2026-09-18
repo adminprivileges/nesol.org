@@ -4,7 +4,7 @@ draft = false
 title = 'Network Analyst Instructor'
 image = 'img/careers/pexels-juicemitapfelndrin-30561676.jpg'
 +++  
-**Location:** Hanover, Maryland
+**Location:** Hanover, Maryland  
 **Employment Type:** Full Time
 
 

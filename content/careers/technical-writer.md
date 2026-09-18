@@ -4,7 +4,7 @@ draft = false
 title = 'Technical Writer'
 image = 'img/careers/pexels-startup-stock-photos-7102.jpg'
 +++  
-**Location:** Hanover, Maryland
+**Location:** Hanover, Maryland  
 **Employment Type:** Full Time
 
 

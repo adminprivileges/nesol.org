@@ -4,7 +4,7 @@ draft = false
 title = 'IO Psych Testing Expert'
 image = 'img/careers/pexels-fauxels-3184292.jpg'
 +++  
-**Location:** Hanover, Maryland
+**Location:** Hanover, Maryland  
 **Employment Type:** Full Time
 
 

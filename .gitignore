@@ -1,0 +1,40 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/.hugo_build.lock
+
+# Hugo cache
+/.hugo_cache/
+hugo_cache/
+.cache/
+
+# Node dependencies
+/node_modules/
+
+# Package manager caches/logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files / secrets
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp

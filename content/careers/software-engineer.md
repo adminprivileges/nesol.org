@@ -4,7 +4,7 @@ draft = false
 title = 'Software Engineer'
 image = 'img/careers/pexels-sash2s-16592498.jpg'
 +++  
-**Location:** Hanover, Maryland
+**Location:** Hanover, Maryland  
 **Employment Type:** Full Time
 
 

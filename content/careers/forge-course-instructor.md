@@ -4,7 +4,7 @@ draft = false
 title = 'Forge Course Instructor'
 image = 'img/careers/pexels-asia-culture-center-3116378-14612128.jpg'
 +++  
-**Location:** Hanover, Maryland
+**Location:** Hanover, Maryland  
 **Employment Type:** Full Time
 
  

@@ -4,7 +4,7 @@ draft = false
 title = 'Course Support Developer'
 image = 'img/careers/pexels-markus-winkler-1430818-4578665.jpg'
 +++  
-**Location:** Hanover, Maryland
+**Location:** Hanover, Maryland  
 **Employment Type:** Full Time
   
 
