@@ -4,12 +4,12 @@ draft = false
 title = 'IO Psych Testing Expert'
 image = 'img/careers/pexels-fauxels-3184292.jpg'
 +++  
-**Location:** Hanover, Maryland  
+**Location:** Hanover, Maryland 21076
 **Employment Type:** Full Time
 
 
 
-NE Solutions is seeking an experienced Instructional Testing Expert to support our federal customer in Hanover, MD (Remote). This is a temporary assignment scheduled to last 3-4 months.
+NE Solutions is seeking an experienced Instructional Testing Expert to support our federal customer in Hanover, MD.
 
 ## Responsibilities:
 - Design, develop, and revise tests and/or assessments for highly technical evaluation programs
